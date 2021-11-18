@@ -1,6 +1,6 @@
 # School District Analysis Using Pandas
 ## Project Purpose and Overview
-A school board detected academic dishonesty in their ninth grade math and reading scores, though they are unsure as to the full extent. An analysis comparing the same metrics across the entire school district was performed just before this discovery. As a result, they have requested that the 9th grade scores from Thomas High School, the school in question, be removed. This analysis will compare the old district summary to the new, up to date version.
+The Thomas High School school board detected academic dishonesty in their 9th grade math and reading scores, though they are unsure as to the full extent. An analysis comparing the same metrics across the entire school district was performed just before this discovery. As a result, they have requested that the 9th grade scores from Thomas High School, the school in question, be removed. This analysis will compare the old district summary to the new, up to date version.
 ## Results
 The school district has a total of 39,170 students across 15 different school. Thomas High School has a total of 1,635 students, 461 of which are in the 9th grade. To account for dropping 461 tests, the percentages for district scores were calculated using 38,709 as the denominator. Otherwise, the total student count remained the same. Thomas High School math and reading scores ignored the 9th grade entirely.
 
@@ -13,7 +13,7 @@ The following metrics used to analyze the data were:
   - Student scores by school size
   - Student scores by school type
 
-Note: Thomas High School will be a part of the group highlighted blue in all of the following photos. Also, the scores per grade in each individual school was left out of the results, as it was untouched everywhere but Thomas High School, where the 9th grade simply was left void.
+Note: Thomas High School will be a part of the group highlighted blue in the following photos. Also, the scores per grade in each individual school was left out of the results, as it was untouched everywhere but Thomas High School, where the 9th grade simply was left void.
 
 ### District Analysis
 
@@ -82,4 +82,4 @@ Again, there is no change in the rounding process due to such a minor effect of 
 
 ## Summary
 
-The modification of removing Thomas High School 9th Grade scores has proven to be insignificant to the overall results, as it, in many categories, is unable to affect a decimal in the tenths place. Nonetheless, district results fell by between 0.1% and 0.3% in the math, reading, and overall passing percentages. The Thomas High School scores were not replaced with lower grades, but were instead left out of the calculations in a way that accounted for their absence. This means that the 9th Grade scores were above average to a degree that they were still able to have an effect on the entire district's results. It not only had an impact on district results, but to Thomas High School's overall performance. Almost all of their average scores dropped, with the average reading score rising by 0.05, meaning the 9th graders outperformed 10th, 11th, and 12th graders - further supporting the school board's suspicion.
+The modification of removing Thomas High School 9th Grade scores has proven to be insignificant to the overall results, as it, in many categories, is unable to affect a decimal in the tenths place. Nonetheless, district results fell by between 0.1% and 0.3% in the math, reading, and overall passing percentages. The Thomas High School scores were not replaced with lower grades, but were instead left out of the calculations in a way that accounted for their absence. This means that the 9th Grade scores were above average to a degree that they were still able to influence the entire district's results. It not only had an impact on district results, but to Thomas High School's overall performance. Almost all their average scores dropped, with the average reading score rising by 0.05, meaning the 9th graders outperformed 10th, 11th, and 12th graders - further supporting the school board's suspicion.
