@@ -13,15 +13,29 @@ The following metrics used to analyze the data were:
   - Student scores by school size
   - Student scores by school type
 
-
-
-
-
-
+### District Analysis
 
 **Original District Summary**
 ![DistrictSummaryOrig](https://user-images.githubusercontent.com/92493572/142491270-36cb6d41-eb74-4c58-ad6e-1371ecbe3a69.png)
 
 **Updated District Summary**
 ![DistrictSummaryUpdate](https://user-images.githubusercontent.com/92493572/142491276-89902924-fd50-4692-b242-bcd5bdfcfbf5.png)
+
+Considering the format, the updated figure shows that:
+  - averages math scores dropped by 0.1%
+  - passing math dropped by 0.2%
+  - passing reading dropped by 0.1%
+  - percent overall passing dropped by 0.3%
+
+### Individual School Performance
+Thomas High School, highlighted below in blue, is the only focus in this analysis because individual school data was not modified.
+
+**Original School Performance**
+![School_Perform_Orig](https://user-images.githubusercontent.com/92493572/142500261-27239bf5-5daf-4dde-9cc5-beb2404f1fb7.png)
+
+**Updated School Performance**
+![School_Perform_Updated](https://user-images.githubusercontent.com/92493572/142500670-fe518560-b08e-475b-8741-2fbb684a9c61.png)
+
+Almost all of the scores dropped, aside from the average reading score, which rose by 0.05 points. The overall passing percentage saw the biggest change, reducing by 0.3%.
+
 
