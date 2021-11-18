@@ -18,9 +18,11 @@ Note: Thomas High School will be a part of the group highlighted blue in all of 
 ### District Analysis
 
 **Original District Summary**
+
 ![DistrictSummaryOrig](https://user-images.githubusercontent.com/92493572/142491270-36cb6d41-eb74-4c58-ad6e-1371ecbe3a69.png)
 
 **Updated District Summary**
+
 ![DistrictSummaryUpdate](https://user-images.githubusercontent.com/92493572/142491276-89902924-fd50-4692-b242-bcd5bdfcfbf5.png)
 
 Considering the format, the updated figure shows that:
@@ -33,9 +35,11 @@ Considering the format, the updated figure shows that:
 Thomas High School, highlighted below in blue, is the only focus in this analysis because individual school data was not modified.
 
 **Original School Performance**
+
 ![School_Perform_Orig](https://user-images.githubusercontent.com/92493572/142500261-27239bf5-5daf-4dde-9cc5-beb2404f1fb7.png)
 
 **Updated School Performance**
+
 ![School_Perform_Updated](https://user-images.githubusercontent.com/92493572/142500670-fe518560-b08e-475b-8741-2fbb684a9c61.png)
 
 Almost all the scores dropped, aside from the average reading score, which rose by 0.05 points. The overall passing percentage saw the biggest change, reducing by 0.3%.
@@ -43,9 +47,11 @@ Almost all the scores dropped, aside from the average reading score, which rose 
 ### Student Scores by Spending Per Capita
 
 **Original Student Scores by Spending Per Capita**
+
 ![School_Spend_Orig](https://user-images.githubusercontent.com/92493572/142502948-f8261126-b4d6-43bb-902d-26fbe9493fb7.png)
 
 **Updated Student Scores by Spending Per Capita**
+
 ![School_Spend_Updated](https://user-images.githubusercontent.com/92493572/142502962-e674598d-f406-4252-bf14-609cd0b18e48.png)
 
 Although the scores changed by fractions of a percent, they did not change enough to affect the rounding process for the above calculations.
@@ -53,9 +59,11 @@ Although the scores changed by fractions of a percent, they did not change enoug
 ### Student Performance Based on School Size
 
 **Original Student Scores by School Size**
+
 ![School_Size_Orig](https://user-images.githubusercontent.com/92493572/142503638-30e3aea9-fa37-4c41-8a57-225c97e1c7ad.png)
 
 **Updated Student Scores by School Size**
+
 ![School_Size_Updated](https://user-images.githubusercontent.com/92493572/142503673-98157e50-cf25-466b-ab5b-b35b0bee44e1.png)
 
 The same result is found in this case; there is no notable change, even to the first decimal place.
@@ -63,9 +71,11 @@ The same result is found in this case; there is no notable change, even to the f
 ### Student Performance Based on School Type
 
 **Original Student Scores by School Type**
+
 ![School_Type_Orig](https://user-images.githubusercontent.com/92493572/142503893-5e4ba099-fb53-4e9c-9a89-38fb4ab40658.png)
 
 **Updated Student Scores by School Type**
+
 ![School_Type_Updated](https://user-images.githubusercontent.com/92493572/142503902-a9d368c2-47be-4937-8170-e45603b09359.png)
 
 Again, there is no change in the rounding process.
