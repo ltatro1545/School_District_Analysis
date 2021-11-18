@@ -78,15 +78,8 @@ The same result is found in this case; there is no notable change, even to the f
 
 ![School_Type_Updated](https://user-images.githubusercontent.com/92493572/142503902-a9d368c2-47be-4937-8170-e45603b09359.png)
 
-Again, there is no change in the rounding process.
+Again, there is no change in the rounding process due to such a minor effect of replacing Thomas High School 9th Grade scores.
 
 ## Summary
 
-The modification of removing Thomas High School 9th Grade scores has proven to be insignificant to the overall results, as it, in many categories, is unable to affect a decimal in the tenths place.
-
-
-
-
-
-
-
+The modification of removing Thomas High School 9th Grade scores has proven to be insignificant to the overall results, as it, in many categories, is unable to affect a decimal in the tenths place. Nonetheless, district results fell by between 0.1% and 0.3% in the math, reading, and overall passing percentages. The Thomas High School scores were not replaced with lower grades, but were instead left out of the calculations in a way that accounted for their absence. This means that the 9th Grade scores were above average to a degree that they were still able to have an effect on the entire district's results. It not only had an impact on district results, but to Thomas High School's overall performance. Almost all of their average scores dropped, with the average reading score rising by 0.05, meaning the 9th graders outperformed 10th, 11th, and 12th graders - further supporting the school board's suspicion.
